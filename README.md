@@ -1,6 +1,6 @@
-### Hi warriors . . Au is here!!👋 
+### <center> <Hi warriors . . Au is here!!👋>   </center>
 
-<img width="50%" height="auto" src="https://i.postimg.cc/0QLs79nr/giphy.gif" height="100px"/></a>
+<center> <img width="50%" height="auto" src="https://i.postimg.cc/0QLs79nr/giphy.gif" height="100px"/></a> </center>
 
 <!--
 **bahiaaunicgranitya/bahiaaunicgranitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
