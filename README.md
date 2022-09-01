@@ -1,5 +1,6 @@
 ### Hi warriors . . Au is here!!👋 
 
+(https://giphy.com/gifs/dinosaur-vrKUtJNMtB3Y4)
 <!--
 **bahiaaunicgranitya/bahiaaunicgranitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
